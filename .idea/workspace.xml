@@ -31,7 +31,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/kristikorn/projects/prime-factors-kata&quot;
   }
 }</component>
-  <component name="ReplState" timestamp="1740524193939">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="ReplState" timestamp="1740537777448">{:repl-history {:ide [], :local [], :remote []}}</component>
   <component name="RunManager">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
